@@ -1,4 +1,4 @@
-# Counter_4bit_up-down
+# EX 2-Counter_4bit_up-down
 
 ## Aim:
 
@@ -183,7 +183,7 @@ It contains statements that map logical library names to their physical director
 
 ![Screenshot 2024-10-04 195937](https://github.com/user-attachments/assets/a9a54d87-bf57-40ef-9795-7585eafdabeb)
 
-### Result:
-The functionality of a 4-bit adder was successfully verified using a test bench and
-simulated with the nclaunch tool.
+# Result:
+         The functionality of a 4bit_up-down Counter was successfully
+verified using a test bench and simulated with the nclaunch tool.
 
